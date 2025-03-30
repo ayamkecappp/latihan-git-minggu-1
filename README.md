@@ -2,4 +2,4 @@
 
 ## 📌 Tentang Repository Ini
 
-Repository ini dibuat sebagai latihan pada Club Full Sncack Minggu ke-1 untuk memahami penggunaan Git dan GitHub. Di dalam repository ini, Anda akan menemukan berbagai latihan dasar, seperti:
+Repository ini dibuat sebagai latihan pada Club Full Sncack Dev Minggu ke-1 untuk memahami penggunaan GitHub.
